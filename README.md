@@ -1,6 +1,5 @@
-### Hi I'm Susie Castro 👋
+Olá eu sou Susie Castro 👋
 
-<!--
 
 - 🔭 Atualmente trabalho com Business Intelligence
 - 🌱 No momento estudando  Python 
