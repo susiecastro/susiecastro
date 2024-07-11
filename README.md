@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente trabalho com Business Intelligence
 - 🌱 No momento estudando  Python 
-- 🤔 Procuro ajuda  om Python, SQL and PHP
 - 💬 Posso te ajudar com Excel and PowerBI
 
 
