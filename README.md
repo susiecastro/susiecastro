@@ -10,5 +10,6 @@
 <div> 
   <a href="https://www.youtube.com/@profasusiecastro" target="_blank)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 	  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://github.com/susiecastro/PowerBI_Dashboards" target="_blank"><img src="https://img.shields.io/badge/-Power%20BI-%23FFCE1B?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
